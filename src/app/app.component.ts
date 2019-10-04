@@ -8,3 +8,4 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'book-curd';
 }
+//mention forms in this if you are using ngModel to eneter or receive date from the forms
